@@ -25,5 +25,3 @@ This dashboard explores
 
 ## Project Files
 - Dashboard screenshot
-- Survey dataset
-- Dashboard screenshot
